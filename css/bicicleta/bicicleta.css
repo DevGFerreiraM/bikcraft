@@ -21,10 +21,12 @@
   flex: 1;
   min-width: 200px;
   margin: 0px;
+  cursor: pointer;
 }
 
 .bicicleta-imagens img:first-child {
   min-width: 100%;
+  cursor: default;
 }
 
 .bicicleta-conteudo > p {
